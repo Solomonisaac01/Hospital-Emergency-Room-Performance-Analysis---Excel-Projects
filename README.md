@@ -286,32 +286,7 @@ The final Excel dashboard was designed using:
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Main%20%28Screen_shot%29%281%29.png)
-
----
-
-## 📂 Project Structure
-
-```text
-Hospital-Emergency-Room-Performance-Analysis/
-│
-├── Hospital_Emergency_Room_Analysis.xlsx
-├── Main (Screen_shot)(1).png
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
-1. Download the Excel workbook from this repository.
-2. Open the workbook using **Microsoft Excel**.
-3. Navigate to the dashboard sheet.
-4. Use the **Year** slicer to select 2023 or 2024.
-5. Use the **Month** slicer to analyze individual months.
-6. Review the KPI cards and charts.
-7. Compare patient flow, waiting time, admissions, referrals, and demographics.
-8. Use the insights to support operational decision-making.
+https://github.com/Solomonisaac01/Hospital-Emergency-Room-Performance-Analysis---Excel-Projects/blob/main/Screenshot.png
 
 ---
 
@@ -350,7 +325,3 @@ The dashboard demonstrates how Excel can be used to convert raw healthcare data 
 **Solomon Isaac**
 
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
-
----
-
-⭐ If you find this project useful, consider giving the repository a **star** on GitHub.
